@@ -1,5 +1,4 @@
 #**Angelina Maslova**
-
 ####Start learning JS
 ####You can find me:
 Location: Minsk, Belarus
